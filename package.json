@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.13.0",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^0.2.4",
+    "image-to-base64": "^2.2.0",
+    "node-schedule": "^2.1.1",
+    "osrs-json-api": "^1.5.0",
+    "request": "^2.88.2",
+    "sharp": "^0.32.6",
+    "uuid": "^9.0.1"
+  }
+}

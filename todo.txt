@@ -1,0 +1,94 @@
+WALLET
+
+create wallet
+------------------------------------
+GAMBLE
+
+OOPfy -done
+wallet integration
+gif on opening -> updating the initial image after -done
+integrate list of times to recieve.
+finish display
+------------------------------------
+HOF
+
+OOPfy
+centralise HOF
+dynamic updates (might fix previous midnight colision)
+------------------------------------
+EVENT CLASS
+
+hold information about ongoing events
+donations
+prizepool
+------------------------------------
+BINGO
+
+make it so its same as bucket with singleton instancing
+add people activity and money
+------------------------------------
+SKILLING EVENT
+
+OOPfy
+make it so its same as bucket with singleton instancing
+------------------------------------
+RW/WDR/ING ban check 
+
+make it
+------------------------------------
+GE
+
+try to dynimicly get new stuff (id/if runelite stats + drops)
+------------------------------------
+GEAR
+
+OOPfy
+dps calcs? (reaching) (would make it so its dynimicly calculated gearsets for price, might be resourse intensive)
+------------------------------------
+POLLS
+
+make it eventible (better OOP)
+can include modals for creation
+5+ answers change eventable to reactions
+change to since question single message
+edit display to look nicer
+------------------------------------
+GUIDES
+
+file system to save and load guides. (prefarably not multiple messages, might not get around that)
+------------------------------------
+MOD MAIL
+
+create support
+------------------------------------
+VC settup (temp voice (copycat))
+
+advanced settings
+ - private (user selector populator)
+ - limit users
+ - block/unblock
+ - trust/untrust
+ - privacy (lock)
+------------------------------------
+ACTIVITY CHECKUP
+
+implement better checking on rsn (wont do check in if you have outdated names)
+------------------------------------
+POST-YOUR-RSN
+
+dm a person when the name is not longer avaible
+error log in discord name to check if he is banned
+
+
+------------------------------------
+ANIVERSARIES
+
+from clan export, get date they joined and do like 1 year 2 year announcmnt <3
+------------------------------------
+COFFER MANAGER
+
+------------------------------------
+PRAISER
+
+add ANIVERSARIES here
+fix lookup
